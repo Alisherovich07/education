@@ -13,7 +13,18 @@ const About = () => {
         <div className="about-right">
             <h3>ABOUT UNIVERSTY</h3>
             <h2>Nurturing Tomorrow's Leaders Todays</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident ut consequatur laudantium nihil aliquam, maiores, ratione nisi vel accusantium dolorem ipsum soluta. Atque hic culpa obcaecati dignissimos iusto autem voluptatibus!</p>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+              Provident ut consequatur laudantium nihil aliquam, maiores, 
+              ratione nisi vel accusantium dolorem ipsum soluta. Atque hic 
+              culpa obcaecati dignissimos iusto autem voluptatibus!</p>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+              Provident ut consequatur laudantium nihil aliquam, maiores, 
+              ratione nisi vel accusantium dolorem ipsum soluta. Atque hic 
+              culpa obcaecati dignissimos iusto autem voluptatibus!</p>
+              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+              Provident ut consequatur laudantium nihil aliquam, maiores, 
+              ratione nisi vel accusantium dolorem ipsum soluta. Atque hic 
+              culpa obcaecati dignissimos iusto autem voluptatibus!</p>
         </div>
     </div>
   )
