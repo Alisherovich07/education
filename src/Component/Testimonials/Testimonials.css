@@ -1,3 +1,4 @@
+/* src/App.css */
 .testimonials {
     margin: 80px auto;
     padding: 0 80px;
@@ -27,14 +28,13 @@
 
 .slider ul {
     display: flex;
-    width: 200%;
-    overflow-x: hidden;
-    transition: 0.5s ;  
+    width: 400%; /* 4 slayd bo'lgani uchun 400% */
+    transition: transform 0.5s ease-in-out;  
 }
 
 .slider ul li {
     list-style: none;
-    width: 50%;
+    width: 25%; /* 4 slayd bo'lgani uchun 25% */
     padding: 20px;
 }
 
